@@ -2,31 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://samthepacman.github.io/tags/about/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://samthepacman.github.io/about/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://samthepacman.github.io/posts/test/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://samthepacman.github.io/posts/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://samthepacman.github.io/tags/starting/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://samthepacman.github.io/tags/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://samthepacman.github.io/</loc>
-    <lastmod>2023-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://samthepacman.github.io/authors/</loc>
-  </url><url>
-    <loc>https://samthepacman.github.io/categories/</loc>
-  </url><url>
-    <loc>https://samthepacman.github.io/series/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

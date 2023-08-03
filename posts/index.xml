@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on The samthepacman blog</title>
-    <link>https://samthepacman.github.io/posts/</link>
-    <description>Recent content in Posts on The samthepacman blog</description>
+    <title>Blog on The Pacman Archives</title>
+    <link>/posts/</link>
+    <description>Recent content in Blog on The Pacman Archives</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://samthepacman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First One</title>
-      <link>https://samthepacman.github.io/posts/test/</link>
-      <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://samthepacman.github.io/posts/test/</guid>
-      <description> Mic Testing 1, 2, 3. Link to heading </description>
-    </item>
-    
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
